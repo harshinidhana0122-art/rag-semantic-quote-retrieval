@@ -49,5 +49,5 @@ To build an intelligent quote search system using the **Abirate/english_quotes**
 retrieve_quotes("quotes about hope by oscar wilde")
 ## How to Run
 1. Open the Google Colab notebook:
-   - (Paste your public Colab link here) https://colab.research.google.com/drive/1AwwX2NL2GwORIGWBTpM4eUR-mCwyQQ7N?usp=sharing
+   https://colab.research.google.com/drive/1AwwX2NL2GwORIGWBTpM4eUR-mCwyQQ7N?usp=sharing
 
